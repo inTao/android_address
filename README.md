@@ -13,6 +13,7 @@
     address:
     https://github.com/ReactiveX/RxJava
     https://github.com/ReactiveX/RxAndroid 
+    
 ### 4.Android-crop
-    address：
+    address:
     https://github.com/jdamcd/android-crop
