@@ -17,3 +17,7 @@
 ### 4.Android-crop
     address:
     https://github.com/jdamcd/android-crop
+    
+### 5.Android官方培训课程中文版(v0.9.7)
+    address:
+    http://hukai.me/android-training-course-in-chinese/index.html
