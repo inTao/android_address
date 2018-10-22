@@ -57,6 +57,10 @@ android 4.4以上沉浸式状态栏和沉浸式导航栏管理，包括状态栏
 该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能
 https://github.com/jeasonlzy/okhttp-OkGo
 
+### 15.snake 
+滑动关闭页面
+https://github.com/yuanhoujun/Snake/tree/develop
+
 8.PictureSelector
 一款针对android平台下的图片选择器，支持从相册或拍照选择图片或视频、音频，支持动态权限获取、裁剪(单图or多图裁剪)、压缩、主题自定义配置等功能、适配android 6.0+系统的开源图片选择框架
 https://github.com/LuckSiege/PictureSelector
