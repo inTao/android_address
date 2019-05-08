@@ -32,12 +32,16 @@
 ### EventBus
 [https://github.com/greenrobot/EventBus](https://github.com/greenrobot/EventBus)
     
-### 4.Android-crop 
+### Android-crop 
 截图框架
 [https://github.com/jdamcd/android-crop](https://github.com/jdamcd/android-crop)
     
-### 5.Android官方培训课程中文版(v0.9.7)
+### Android官方培训课程中文版(v0.9.7)
 [http://hukai.me/android-training-course-in-chinese/index.html](http://hukai.me/android-training-course-in-chinese/index.html)
+
+### GitHub 上优质项目整理
+[https://juejin.im/post/5cc56099e51d456e8a12f01f?utm_source=gold_browser_extension](https://juejin.im/post/5cc56099e51d456e8a12f01f?utm_source=gold_browser_extension)
+)
 
 ### 6.Android开源项目及库
 [https://github.com/Tim9Liu9/TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)
