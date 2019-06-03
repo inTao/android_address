@@ -42,11 +42,13 @@
 ### GitHub 上优质项目整理
 [https://juejin.im/post/5cc56099e51d456e8a12f01f?utm_source=gold_browser_extension](https://juejin.im/post/5cc56099e51d456e8a12f01f?utm_source=gold_browser_extension)
 )
+### BLE蓝牙框架
+https://github.com/Jasonchenlijian/FastBle
 
-### 6.Android开源项目及库
+### Android开源项目及库
 [https://github.com/Tim9Liu9/TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)
 
-### 7.Gson
+### Gson
 json解析框架
 [https://github.com/google/gson](https://github.com/google/gson)
 
