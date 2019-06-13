@@ -125,3 +125,5 @@ RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，
 可帮助您使用滑动后退手势构建应用
 https://github.com/ikew0ng/SwipeBackLayout
 
+### LFilePicker 文件选择器
+[https://github.com/leonHua/LFilePicker](https://github.com/leonHua/LFilePicker)
