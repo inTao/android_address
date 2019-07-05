@@ -45,6 +45,9 @@
 ### BLE蓝牙框架
 https://github.com/Jasonchenlijian/FastBle
 
+### 3.0蓝牙框架
+https://github.com/AlexLiuSheng/EasyBluetoothFrame
+
 ### Android开源项目及库
 [https://github.com/Tim9Liu9/TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)
 
