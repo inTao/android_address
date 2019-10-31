@@ -10,6 +10,8 @@
 ### 算法练习
 [https://leetcode-cn.com/](https://leetcode-cn.com/)
 
+###  gradlew compileDebugSources  错误查找
+
 ### 任玉刚
 [http://renyugang.io/post/75](http://renyugang.io/post/75)
 
