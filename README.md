@@ -5,12 +5,16 @@
 ### kotlin
 [https://www.jianshu.com/p/89e6e137cb1b](https://www.jianshu.com/p/89e6e137cb1b)
 
-## Framework to address：
-
 ### 算法练习
 [https://leetcode-cn.com/](https://leetcode-cn.com/)
 
+## Framework to address：
+
 ###  gradlew compileDebugSources  错误查找
+
+
+### 魔法指示器（TabLayout）
+[https://github.com/hackware1993/MagicIndicator](https://github.com/hackware1993/MagicIndicator)
 
 ### 任玉刚
 [http://renyugang.io/post/75](http://renyugang.io/post/75)
@@ -20,11 +24,14 @@
 
 ### util
 [https://github.com/Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
+
 ### OKHTTP
 网络框架
 [https://github.com/square/okhttp](https://github.com/square/okhttp)
+
 ### statusBarUtils
 [https://github.com/laobie/StatusBarUtil](https://github.com/laobie/StatusBarUtil)
+
 ### litePal
 数据库框架
 [https://github.com/LitePalFramework/LitePal](https://github.com/LitePalFramework/LitePal)
